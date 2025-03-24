@@ -39,6 +39,7 @@ This is a one-page React web app that allows users to view weather information f
    ```
 
 ## Usage
+- Visit the deployed app: **[Weather Dashboard](https://weather-dashboard-one-ruddy.vercel.app/)**
 - Use the search bar to find and add cities.
 - Click on a city to view detailed weather information.
 - Toggle between Celsius and Fahrenheit using the switch.
